@@ -1,0 +1,1 @@
+import{Ja as p,Ka as o,Qa as a,za as n}from"./chunk-NZX6HTBP.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-gpf"]],decls:2,vars:0,template:function(e,i){e&1&&(p(0,"p"),a(1,"gpf works!"),o())},encapsulation:2})};export{s as GpfComponent};
